@@ -1,6 +1,5 @@
-|Execution Unit              |Command            |      Channels   ||||||
+|Execution Unit              |Command            | ALC 0 | ALC 1 | ALC 2 | ALC 3 | ALC 4 | ALC 5 |
 |----------------------------|:-----------------:|:-:|:-:|:-:|:-:|:-:|:-:|
-|                            |                   | 0 | 1 | 2 | 3 | 4 | 5 |
 |Integer ALU, Logical, Shifts|two-operand        | ☑️ | ☑️ | ☑️ | ☑️ | ☑️ | ☑️ |
 |                            |three-operand      |   | ☑️ |   |   | ☑️ |   |
 |                            |cmp                | ☑️ | ☑️ |   | ☑️ | ☑️ |   |
